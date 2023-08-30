@@ -5,7 +5,7 @@ public class SingleResponsibility {
         User user1 = new User();
         EmailService email1 = new EmailService();
 
-        user1.login("Prottoy", "Password");
+        user1.login("Hasan", "Password");
         email1.sendEmail("Sani ", "SADP ", "Null ");
         
     }
